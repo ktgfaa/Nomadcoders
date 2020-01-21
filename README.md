@@ -1,2 +1,2 @@
 # Nomadcoders
-course2
+course
